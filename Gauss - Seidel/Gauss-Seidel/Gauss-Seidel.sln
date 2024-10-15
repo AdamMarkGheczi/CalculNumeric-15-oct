@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gauss-Seidel", "Gauss-Seidel\Gauss-Seidel.csproj", "{96DAD3B6-47A9-4B00-BBE9-69A643691E57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96DAD3B6-47A9-4B00-BBE9-69A643691E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DAD3B6-47A9-4B00-BBE9-69A643691E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DAD3B6-47A9-4B00-BBE9-69A643691E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DAD3B6-47A9-4B00-BBE9-69A643691E57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22CE92DE-F44E-4670-9688-F681ABF2F6C3}
+	EndGlobalSection
+EndGlobal
